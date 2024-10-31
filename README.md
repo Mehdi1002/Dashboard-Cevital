@@ -1,6 +1,6 @@
 # Cevital - Monthly Sales Dashboard
 
-**Dashboard Link**: [Insert Link Here]
+**Dashboard Link**: (https://drive.google.com/file/d/1aiIErFlS6B02jQG0BrdSHmTN6MGvyvo8/view?usp=sharing)
 
 ## 📊 Problem Statement
 
@@ -51,7 +51,7 @@ An interactive map presents the sales distribution by region, offering a geograp
 ![Aperçu du Dashboard](https://github.com/user-attachments/assets/bf8e59e8-4543-448a-82be-916d55c8dcf8)
 ## Page 2
 
-![Aperçu du Dashboard 2](https://github.com/user-attachments/assets/bf8e59e8-4543-448a-82be-916d55c8dcf8)
+![Aperçu du Dashboard 2](https://github.com/user-attachments/assets/38184f38-d515-4666-9967-b63512347fa0)
 
 
 
