@@ -1,6 +1,5 @@
 # Cevital - Monthly Sales Dashboard
 
-**Dashboard Link**: (https://drive.google.com/file/d/1aiIErFlS6B02jQG0BrdSHmTN6MGvyvo8/view?usp=sharing)
 
 ## 📊 Problem Statement
 
